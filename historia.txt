@@ -6,4 +6,8 @@ Git.
 
 espero que estes bien.
 
+<<<<<<< HEAD
 Cambio de vida y obra maestra.
+=======
+manana nos enfocaremos en su vida laboral.
+>>>>>>> cabecera
