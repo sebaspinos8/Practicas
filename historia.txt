@@ -1,5 +1,7 @@
 Hola Soy sebas
 
-como te llama?
+como te llamas?
+
+Git.
 
 espero que estes bien.
